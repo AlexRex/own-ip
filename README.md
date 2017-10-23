@@ -1,4 +1,4 @@
-# own-ip
+# own-ip ☝️
 
 own-ip is a bash script that gets your local ip address and copy it to your clipboard.
 
